@@ -1,5 +1,5 @@
 # alexovna.maker
-my achievements with Hackhatons at 2021
+my achievements at hackhatons in 2021
 
  - 🤖 [MORE.Tech 3.0](https://moretech.vtb.ru)
    - кейс: Mobile
