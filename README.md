@@ -6,11 +6,11 @@ my achievements at hackhatons in 2021
    - [MoreTech 3 Shemarova K.pdf](https://github.com/ALEXOVNA/alexovna.maker/files/7804987/MoreTech.3.Shemarova.K.pdf)
  ---
  - 🌻 [Цифровой Прорыв_полуфинал](https://leadersofdigital.ru/event/63012/case/1090874)
-   -  кейс Иннополис
+   -  кейс: Иннополис
    -  [Shemarova K_Digital_Сertificate.pdf](https://github.com/ALEXOVNA/alexovna.maker/files/7804992/Shemarova.K_Digital_.ertificate.pdf)
 ---
  - 🕵️‍♀️ [Цифровой прорыв_финал](https://leadersofdigital.ru/event/1109435/case/1118235)
-   -  кейс Росатом
+   -  кейс: Росатом
    -  [LeaderSoftDigital_Shemarova K_Final.pdf](https://github.com/ALEXOVNA/alexovna.maker/files/7804982/LeaderSoftDigital_Shemarova.K_Final.pdf)
  ---
  - 🏎️ [FIT-M](https://fit-m.org)
