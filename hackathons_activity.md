@@ -17,4 +17,9 @@ my achievements at hackhatons in 2021
    -  кейс: Optimization and Machine learning for automated cars
    -  [FIT-M_2021 Shemarova K.pdf](https://github.com/ALEXOVNA/alexovna.maker/files/7804986/FIT-M_2021.Shemarova.K.pdf)
 
+---
+ - 🏎️ [MoscowCityHack22](https://moscityhack2022.innoagency.ru)
+   -  кейс: [Чат-бот помощник для сохранения фокуса в процессе обучения через рефлексию и постановку целей](https://moscityhack2022.innoagency.ru/05/)
+   -  [Finalyst di]()
+
 
