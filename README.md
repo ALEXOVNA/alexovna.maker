@@ -1,5 +1,5 @@
-# alexovna.maker
- My achiviements from hackathons. 
+# My achiviements 
+from hackathons
  
  
  
